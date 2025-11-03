@@ -1,7 +1,7 @@
-## inz.lua
+# inz.lua
 
-# keyless & free .lua script for games (universal)
-contains functions like:
+## keyless & free .lua script for games (universal)
+### contains functions like:
 
 1. esp
 2. fly
